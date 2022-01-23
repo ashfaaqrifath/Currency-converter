@@ -1,5 +1,5 @@
 # Python Currency converter
-Placeholders -- A simple program written in python using the pyttsx3 module that narrates any text entered by the user or reading a file entered by the user.
+Placeholders -- 
 
 
 ## Coded by
@@ -28,4 +28,4 @@ Placeholders -- A simple program written in python using the pyttsx3 module that
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)  Copyright © 2022 Ashfaaq Rifath
 ##
-![Logo](https://ashfaaqrfth.github.io/site_logo.png)
+![Logo](https://ashfaaqrifath.github.io/aq%20logo.jpg)
